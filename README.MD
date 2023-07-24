@@ -8,4 +8,4 @@ API FleetApp - mongo DB
 
 rodar server: yarn dev - Necessario estar rodando o mongo no docker.
 
-Qualquer alteração feita na api é necessario gerar o dits: yarn build. Logo apos yarn dev
+Qualquer alteração feita na api é necessario gerar o dist: yarn build. Logo apos yarn dev
